@@ -1,0 +1,21 @@
+Elements needed
+
+(JAVA)
+Disabled textfield
+2D Array of Buttons 6x4
+
+MC -> memory clear
+MR -> memory recall
+M+ -> memory plus, adds to memory
+M- -> memory minus, subtracts from memory
+Example
+Type 2x3= then M+ -> 45/5= then M+ -> MR gives you 15 (6+9) ->
+type 12-6= then M- the memory is 9 M- again 3 M- again -3
+
+SetUp (extras)
+C -> clear all input
+CE -> clear recent input
+
+posneg -> have to type number first then negate it toggle
+            pos = true; neg = false;
+percent -> number divided by 100

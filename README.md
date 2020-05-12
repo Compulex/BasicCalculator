@@ -10,6 +10,6 @@ M- memory subtract
 MC memory clear
 MR memory recall
 
-Setting up the numbers: (%) percent, (+_) positive/negative
+Setting up the numbers: (%) percent, (+-) positive/negative
 
 Setting up the input: (CE) clear entry, (C) clear all
